@@ -1,4 +1,4 @@
-# Nicolás Amado — Professional JavaScript Portfolio
+# Nicolás Amado - Professional JavaScript Portfolio
 
 This is a polished, modern, responsive portfolio built with:
 
