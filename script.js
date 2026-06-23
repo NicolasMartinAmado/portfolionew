@@ -187,7 +187,7 @@ const portfolio = {
     {
       institution: "UNLAM — University of La Matanza",
       credential: "Systems Engineering",
-      period: "03/2022 – Present"
+      period: "03/2022 – 03/2026"
     },
     {
       institution: "Coderhouse",
