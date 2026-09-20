@@ -192,13 +192,13 @@ const portfolio = {
     {
       institution: "Coderhouse",
       credential: "Full Stack Developer Certificate",
-      period: "03/2021 – 12/2023"
+      period: "03/2021 – 12/2022"
     },
     {
       institution: "Educación IT",
       credential:
         "Web Development with HTML, Introduction to Database and SQL, Introduction to the Object Paradigm, Java, Manual QA Testing",
-      period: "03/2014 – 12/2018"
+      period: "03/2020 – 12/2022"
     },
     {
       institution: "Colegio Almafuerte",
